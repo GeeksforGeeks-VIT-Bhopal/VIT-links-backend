@@ -2,7 +2,10 @@ const express = require('express');
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
+var cors = require('cors')
 const app = express();
+
+app.use(cors());
 
 app.get("/", (req, res) => {
     var response = [];
