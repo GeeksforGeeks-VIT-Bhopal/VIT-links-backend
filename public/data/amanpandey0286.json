@@ -1,0 +1,18 @@
+{
+    "name": "Aman Pandey",
+    "profilePicture": "https://github.com/amanpandey0286.png",
+    "description": "App Developer",
+    "university": "VIT Bhopal",
+    "branch": "Computer Science & Engineering",
+    "graduationYear": 2024,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/amanpandey0286"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/aman-pandey-6ba6a4203/"
+        }
+    ]
+}

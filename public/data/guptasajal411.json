@@ -1,0 +1,22 @@
+{
+    "name": "Sajal Gupta",
+    "profilePicture": "https://github.com/guptasajal411.png",
+    "description": "Full Stack Web Developer | Web Lead @ GeeksforGeeks",
+    "university": "VIT Bhopal",
+    "branch": "Computer Science & Engineering",
+    "graduationYear": 2024,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "http://github.com/guptasajal411"
+        },
+        {
+            "name": "Follow me on Twitter",
+            "url": "http://twitter.com/guptasajal411"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/sajalgupta20/"
+        }
+    ]
+}
