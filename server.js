@@ -19,6 +19,13 @@ app.get("/", (req, res) => {
     res.json(response);
 });
 
+app.get("/:username", (req, res) => {
+    const filename = req.params.username + ".json";
+    const data = fs.readFileSync(path.join('./public/data', filename));
+    const parsedData = JSON.parse(data.toString());
+    res.json(parsedData);
+});
+
 app.listen(3001, () => {
     console.log('express server listening on 3001');
 });
