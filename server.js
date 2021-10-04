@@ -4,9 +4,7 @@ const path = require('path');
 var cors = require('cors')
 const app = express();
 
-app.use(cors({
-    origin: 'http://node-react-frontend.vercel.app'
-}));
+app.use(cors());
 
 app.get("/", (req, res) => {
     var response = [];
