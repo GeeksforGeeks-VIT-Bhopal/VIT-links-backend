@@ -1,0 +1,35 @@
+{
+    "name": "Hardik Kumar",
+    "githubUsername": "littleironical",
+    "profilePicture": "https://github.com/littleironical.png",
+    "description": "Hi, this is Hardik kumar, 3rd year BTech student at VIT Bhopal. I love to dig more and more about finances and spirituality.
+    "university": "VIT Bhopal",
+    "branch": "Computer Science & Engineering",
+    "graduationYear": 2023,
+    "links": [
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/littleironical/"
+        },
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/littleironical"
+        },
+        {
+            "name": "Follow me on Medium",
+            "url": "https://littleironical.medium.com/"
+        },
+        {
+            "name": "Follow me on Twitter",
+            "url": "https://twitter.com/littleironical/"
+        },
+        {
+            "name": "Follow me on Instagram",
+            "url": "https://www.instagram.com/littleironical/"
+        },
+        {
+            "name": "Find me on Stack Overflow",
+            "url": "https://stackoverflow.com/users/13050987/littleironical"
+        }
+    ]
+}
