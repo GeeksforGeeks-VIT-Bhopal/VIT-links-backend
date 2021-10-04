@@ -5,9 +5,12 @@ const path = require('path');
 var cors = require('cors')
 const app = express();
 
-app.use(cors());
+const corsOptions = {
+    origin: "http://node-react-frontend.vercel.app/"
+}
 
-app.get("/", (req, res) => {
+app.options=("/", cors(corsOptions));
+app.get("/", cors(corsOptions), (req, res) => {
     var response = [];
     const allData = fs.readdirSync("./public/data").filter(file => path.extname(file) === ".json");
     console.log(allData);
@@ -19,6 +22,7 @@ app.get("/", (req, res) => {
     res.json(response);
 });
 
+app.options=("/:username", cors(corsOptions));
 app.get("/:username", (req, res) => {
     const filename = req.params.username + ".json";
     const data = fs.readFileSync(path.join('./public/data', filename));
