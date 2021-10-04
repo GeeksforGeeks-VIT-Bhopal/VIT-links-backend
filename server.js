@@ -26,6 +26,6 @@ app.get("/:username", (req, res) => {
     res.json(parsedData);
 });
 
-app.listen(3001, () => {
+app.listen(process.env.PORT || 3001, () => {
     console.log('express server listening on 3001');
 });
