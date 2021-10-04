@@ -1,0 +1,19 @@
+{
+    "name": "Chaitanya Sapre",
+    "githubUsername": "Circinusss",
+    "profilePicture": "https://github.com/Circinusss.png",
+    "description": "Data Analytics",
+    "university": "VIT Bhopal",
+    "branch": "Computer Science & Engineering",
+    "graduationYear": 2023,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/Circinusss"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/chaitanya-kedar-sapre/"
+        }
+    ]
+}
