@@ -1,0 +1,23 @@
+{
+    "name": "PRIYANSHU Raj",
+    "githubUsername": "Priyanshuraj21030",
+    "profilePicture": "https://github.com/priyanshuraj21030.png",
+    "description": "YOUR_DESCRIPTION",
+    "university": "Vit bhopal",
+    "branch": "cse with specialization in cloud computing",
+    "graduationYear": 2025,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/Priyanshuraj21030"
+        },
+        {
+            "name": "Follow me on Instagram",
+            "url": "https://www.instagram.com/priyanshuraj497/"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/priyanshu-raj-280ba8220/"
+        }
+    ]
+}
