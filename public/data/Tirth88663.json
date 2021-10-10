@@ -1,0 +1,23 @@
+{
+    "name": "Tirth Patel",
+    "githubUsername": "Tirth88663",
+    "profilePicture": "https://github.com/Tirth88663.png",
+    "description": "Hi i'm Tirth",
+    "university": "VIT Bhopal",
+    "branch": "Computer Science & Engineering with Specialization in AI and ML",
+    "graduationYear": 2025,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/Tirth88663"
+        },
+        {
+            "name": "Follow me on Instagram",
+            "url": "https://www.instagram.com/tirth_34/"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/tirth-patel-52450a220/"
+        }
+    ]
+}
