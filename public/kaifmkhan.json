@@ -1,0 +1,23 @@
+{
+    "name": "Khan Mohd Kaif",
+    "githubUsername": "kaifmkhan",
+    "profilePicture": "https://avatars.githubusercontent.com/u/90042429?s=400&u=e4c387fd7c782bb927747c2e9c7ecbd367c4c84f&v=4",
+    "description": "I am CSE student from VIT Bhopal,Front End Developer,Aspiring full stack developer",
+    "university": "VIT Bhopal",
+    "branch": "CSE with gaming as specializations",
+    "graduationYear": 2025,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/kaifmkhan"
+        },
+        {
+            "name": "Follow me on Instagram",
+            "url": "https://instagram.com/khann_kaiff_01"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://wwww.linkdin.com/kaif-khan-a402601b5"
+        }
+    ]
+}

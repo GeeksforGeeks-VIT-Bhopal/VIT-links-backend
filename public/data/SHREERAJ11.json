@@ -1,0 +1,23 @@
+{
+    "name": "SOBHAN SHREERAJ SA",
+    "githubUsername": "SHREERAJ11",
+    "profilePicture": "https://github.com/SHREERAJ11.png",
+    "description": "An enthusiast coder",
+    "university": "VIT Bhopal",
+    "branch": "CSE AI&ML",
+    "graduationYear": 2025,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/SHREERAJ11"
+        },
+        {
+            "name": "Follow me on Instagram",
+            "url": "https://www.instagram.com/lll_sobhan_lll/"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/sobhan-shreeraj-sa-b65b7321a/"
+        }
+    ]
+}
