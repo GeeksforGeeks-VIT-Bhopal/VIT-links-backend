@@ -1,0 +1,23 @@
+{
+    "name": "Tushienla Jamir",
+    "githubUsername": "tushienla",
+    "profilePicture": "https://github.com/tushienla.png",
+    "description": "Beginner in programming. I enjoy learning new things!",
+    "university": "VIT Bhopal",
+    "branch": "CSE Specialization in Artificial Intelligence and Machine Learning",
+    "graduationYear": 2025,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/tushienla"
+        },
+        {
+            "name": "Follow me on Instagram",
+            "url": "https://www.instagram.com/_alneihsut_/"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/tushienla-jamir-650671217/"
+        }
+    ]
+}
