@@ -1,0 +1,19 @@
+{
+    "name": "Ishita Verma",
+    "githubUsername": "Ishitav03",
+    "profilePicture": "https://media-exp1.licdn.com/dms/image/C4E03AQEBWpUnzDUJpQ/profile-displayphoto-shrink_400_400/0/1622053159875?e=1639612800&v=beta&t=gYY0bZCm6Xi-AIcKdiou283RhfufVdXUmmXLsVsmszQ",
+    "description": "I am a 2nd year B.Tech student. I am currently learning react.js and looking forward to collaborate on web develeopment projects.",
+    "university": "VIT Bhopal",
+    "branch": "CSE",
+    "graduationYear": 2024,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/Ishitav03"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/ishitav03/"
+        }
+    ]
+}
