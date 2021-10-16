@@ -1,0 +1,23 @@
+{
+    "name": "YOUR_NAME",
+    "githubUsername": "YOUR_GITHUB_USERNAME",
+    "profilePicture": "LINK_TO_YOUR_PFP",
+    "description": "YOUR_DESCRIPTION",
+    "university": "VIT",
+    "branch": "YOUR_BRANCH",
+    "graduationYear": 2024,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "YOUR_GITHUB_LINK"
+        },
+        {
+            "name": "Follow me on Instagram",
+            "url": "YOUR_INSTAGRAM_LINK"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "YOUR_LINKEDIN_LINK"
+        }
+    ]
+}
