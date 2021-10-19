@@ -1,0 +1,22 @@
+{
+    "name": "UPENDRA KUMAR",
+    "githubUsername": "upendra14",
+    "profilePicture": "https://github.com/upendra14.png",
+    "university": "VIT BHOPAL",
+    "branch": "Computer Science & Engineering",
+    "graduationYear": 2025,
+    "links": [
+        {
+            "name": "Follow me on Github",
+            "url": "https://github.com/upendra14"
+        },
+        {
+            "name": "Follow me on Instagram",
+            "url": "https://instagram.com/upendra_dr29"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/upendra-kumar-148369158"
+        }
+    ]
+}
