@@ -1,0 +1,19 @@
+{
+    "name": "Yashraj Jadhav",
+    "githubUsername": "Yashraj49",
+    "profilePicture": "https://github.com/Yashraj49.png",
+    "description": "Hello Everyone ! I'm pursuing B-Tech in computer science engineering at VIT university I like to make open source contributions",
+    "university": "VIT",
+    "branch": "CSE CORE",
+    "graduationYear": 2025,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/Yashraj49"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/yashraj-jadhav-806932195/"
+        }
+    ]
+}
