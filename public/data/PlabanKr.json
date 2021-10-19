@@ -1,0 +1,19 @@
+{
+    "name": "Plaban Kumar Mondal",
+    "githubUsername": "PlabanKr",
+    "profilePicture": "https://github.com/PlabanKr.png",
+    "description": "Tech Enthusiast",
+    "university": "VIT",
+    "branch": "CSE Core",
+    "graduationYear": 2025,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/PlabanKr"
+        },
+        {
+            "name": "Follow me on Twitter",
+            "url": "https://twitter.com/PlabanKrMondal"
+        }
+    ]
+}
