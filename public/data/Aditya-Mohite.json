@@ -1,0 +1,23 @@
+{
+    "name": "Aditya Mohite",
+    "githubUsername": "Aditya-Mohite",
+    "profilePicture": "https://github.com/Aditya-Mohite.png",
+    "description": "YOUR_DESCRIPTION",
+    "university": "VIT Bhopal",
+    "branch": "Computer Science and Engineering",
+    "graduationYear": 2025,
+    "links": [
+        {
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/Aditya-Mohite"
+        },
+        {
+            "name": "Follow me on Instagram",
+            "url": "https://www.instagram.com/aditya_mohite_9593/"
+        },
+        {
+            "name": "Connect with me on LinkedIn",
+            "url": "https://www.linkedin.com/in/aditya-mohite-18624a21a/"
+        }
+    ]
+}
