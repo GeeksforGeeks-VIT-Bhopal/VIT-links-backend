@@ -2,8 +2,8 @@
 VITLinks is the place where you can find & connect with fellow VITians! You can also browse other students, check out their social links & share the unique link for all your needs! Add your name to VITLinks by a simple "contribution" to our **[backend repository!](https://github.com/GeeksforGeeks-VIT-Bhopal/VIT-links-backend)**<br>
 You can contribute to this project in a lot of ways, we will be opening issues soon but feel free to open them if you have any ideas!
 
-VIT Links homepage - **https://vit-links-frontend.vercel.app/**<br>
-Your VIT Links unique profile! - **https://vit-links-frontend.vercel.app/githubUsername**
+VIT Links homepage - **https://VIT-links-frontend.guptasajal411.repl.co**<br>
+Your VIT Links unique profile! - **https://VIT-links-frontend.guptasajal411.repl.co/githubUsername**
 
 **<ins>Note</ins>** - Adding your name to VITLinks is done in our [backend repository](https://github.com/GeeksforGeeks-VIT-Bhopal/VIT-links-backend) & <ins>**wont**</ins> be counted as a valid hacktoberfest contribution.
 
